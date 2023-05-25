@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/word-match-name-generator/static/css/main.ce6df7cc.chunk.css",
+    "main.js": "/word-match-name-generator/static/js/main.80ad71bb.chunk.js",
+    "main.js.map": "/word-match-name-generator/static/js/main.80ad71bb.chunk.js.map",
+    "runtime-main.js": "/word-match-name-generator/static/js/runtime-main.ccbac266.js",
+    "runtime-main.js.map": "/word-match-name-generator/static/js/runtime-main.ccbac266.js.map",
+    "static/js/2.9f76bd91.chunk.js": "/word-match-name-generator/static/js/2.9f76bd91.chunk.js",
+    "static/js/2.9f76bd91.chunk.js.map": "/word-match-name-generator/static/js/2.9f76bd91.chunk.js.map",
+    "index.html": "/word-match-name-generator/index.html",
+    "static/css/main.ce6df7cc.chunk.css.map": "/word-match-name-generator/static/css/main.ce6df7cc.chunk.css.map",
+    "static/js/2.9f76bd91.chunk.js.LICENSE.txt": "/word-match-name-generator/static/js/2.9f76bd91.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ccbac266.js",
+    "static/js/2.9f76bd91.chunk.js",
+    "static/css/main.ce6df7cc.chunk.css",
+    "static/js/main.80ad71bb.chunk.js"
+  ]
+}
